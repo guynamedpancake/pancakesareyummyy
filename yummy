@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+</html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pancakes Are Yummy!</title>
+<style>
+body
+{
+background-image: url('falgusgatto.jpg');
+background-repeat: no-repeat;
+background-position: center;
+background-attachment: fixed;
+background-size: 100%
+}
+</style>
+</head>
+<body>
+</body>
+</html>
